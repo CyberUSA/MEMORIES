@@ -1,7 +1,7 @@
 import os, sys, telebot
 from termcolor import colored
 bot = telebot.TeleBot('СЮДА ВСТАВТЕ ТОКЕН ВАШЕГО БОТА')
-
+os.system("clear")
 print(colored("""
  ::::::::  :::   ::: :::::::::  :::::::::: :::::::::  :::    :::  ::::::::      :::           
 :+:    :+: :+:   :+: :+:    :+: :+:        :+:    :+: :+:    :+: :+:    :+:   :+: :+:         
